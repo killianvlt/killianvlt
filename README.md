@@ -47,7 +47,7 @@ I am a Full Stack Developer from France 🐓.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=killianvlt&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=killianvlt&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killianvlt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
