@@ -24,7 +24,7 @@
 I am a Full Stack Developer from France 🐓.
 - :telescope: I am looking for a job as a fullstack developer .
 
-- :seedling: I love to growth my skills and learn lot of things !.
+- :seedling: I love to growth my skills and learn lot of things !
 
 - :zap: I love to use my skills so as to develop my projects.
 
