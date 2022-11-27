@@ -27,7 +27,7 @@ I am a Full Stack Developer from France 🐓.
 
 - :zap: I love to use my skills so as to develop my projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-killianvlt-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/killianvlt)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-killianvlt-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/killianvlt)
 
 ---
 
