@@ -51,3 +51,4 @@ I am a Full Stack Developer from France 🐓.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killianvlt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://app.daily.dev/killianvlt"><img src="https://api.daily.dev/devcards/4ac989f6ff184051a9b6a191bd4171ad.png?r=ibs" width="400" alt="Killian V's Dev Card"/></a>
